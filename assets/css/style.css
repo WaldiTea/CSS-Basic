@@ -10,9 +10,12 @@ ul {
   list-style: none;
 }
 
-a,
-span {
+a {
   color: orangered;
+}
+
+span {
+  color: red;
 }
 
 section > a {
